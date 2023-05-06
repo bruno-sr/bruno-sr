@@ -5,5 +5,5 @@ Computer Science student at [ESTA - IPT](https://www.ipt.pt/)
 <!-- [Site]() -->
 [LinkedIn](https://www.linkedin.com/in/bruno-sr/)
 
-🇧🇷 Born in Rio de Janeiro, Brazil
+🇧🇷 Born in Rio de Janeiro, Brazil <br>
 🇵🇹 Living in Abrantes, Portugal
