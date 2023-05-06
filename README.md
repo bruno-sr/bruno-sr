@@ -1,7 +1,7 @@
-Hi, I'm Bruno Ribeiro! 👋
+### Hi, I'm Bruno Ribeiro! 👋
 Computer Science student at [ESTA - IPT](https://www.ipt.pt/)
 
-Find me elsewhere 🌎
+### Find me elsewhere 🌎
 <!-- [Site]() -->
 [LinkedIn](https://www.linkedin.com/in/bruno-sr/)
 
